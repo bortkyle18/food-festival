@@ -12,11 +12,10 @@ This project demonstrates a Progressive Web Application (PWA) that has the abili
 - MongoDB
 - Mongoose
 - Compression
-- Heroku
 
 ## Launched Site
 
-https://bortkyle18.github.io/photo-port/
+https://bortkyle18.github.io/food-festival/
 
 ## Questions
 
